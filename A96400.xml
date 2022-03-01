@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable and Christian caution against the provoking sin of pride and other manifest evils, and of the judgements threatned because thereof, compassionately tendered to the inhabitants of London, and elsewhere concerned as a warning to repentence. / [by] G.W.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96400</idno>
+            <idno type="STC">Wing W1954</idno>
+            <idno type="STC">ESTC R186526</idno>
+            <idno type="EEBO-CITATION">47683549</idno>
+            <idno type="OCLC">ocm 47683549</idno>
+            <idno type="VID">173003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable and Christian caution against the provoking sin of pride and other manifest evils, and of the judgements threatned because thereof, compassionately tendered to the inhabitants of London, and elsewhere concerned as a warning to repentence. / [by] G.W.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Sold by Randal Tayler ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed July the 18. 1693."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Repentance --  Quakers --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:173003:1" rendition="simple:additions"/>
+            <head>A Seaſonable and Chriſtian Caution Againſt the Provoking Sin of <hi>PRIDE</hi> and other manifeſt <hi>Evils,</hi> and of the JUDGEMENTS threatned becauſe thereof, <hi>Compaſſionately tendered to the Inhabitants of</hi> LONDON, <hi>and elſewhere Concerned, as a Warning to</hi> REPENTANCE.</head>
+            <p n="1">I. MY Soul with many others having been often bowed down under a deep ſence and burthen of the Impenitence, hard<g ref="char:EOLhyphen"/>neſs of Heart, Unſenſibleneſs, <hi>Pride</hi> and Preſumption abounding in this City of <hi>London</hi> and Nation of <hi>England;</hi> and being ſenſible the great God is thereby highly offended, and pro<g ref="char:EOLhyphen"/>voked to Anger, and that even the Nation is in great Danger, deeply to ſuffer by the Sins of the People, and the great abuſe of the Mercies of God: I Conſidered what Method I might uſe to perſuade this People (profeſſing <hi>Chriſtianity</hi> and the Holy Scriptures to be their Rule of Life, <hi>&amp;c.)</hi> to be aſhamed of this Reigning Sin of <hi>Pride;</hi> whereupon in the Sence of the Love of God, and in great compaſſion to this City and Nation, I ſaid in my Heart (as the Matter truly opened) Let us try them with the Holy Scripture Teſtimonies, and let none be angry nor offended thereat, but take warning and ſpeedily Repent; For if they will not hear <hi>Moſes</hi> and the <hi>Prophets,</hi> nor regard the Com<g ref="char:EOLhyphen"/>mands or Teſtimonies of Chriſt Jeſus, or his Holy Apoſtles (when duly applyed) <hi>Neither will they hear if one ſhould riſe from the Dead to warn them.</hi>
+            </p>
+            <list>
+               <head>Pray Conſider.</head>
+               <item>1. <q>It is the wicked that is ſo proud that he ſeeketh not after God.</q> 
+                  <bibl>Pſal. 10. 4.</bibl> And what then will be the Judgement of ſuch? <q>The Lord will Cut off them that are turned back from him, and thoſe that have not ſought the Lord nor enquired after him.</q> 
+                  <bibl>Zeph. 1. 4, 5, 6.</bibl>
+               </item>
+               <item>2. Who is King over the Children of Pride, but the <hi>Wicked one,</hi> the <hi>Devil,</hi> the <hi>Old Crooked Serpent,</hi> (Figuratively call'd <hi>Leviathan,</hi> 
+                  <bibl>Job 41. 25. Iſa. 27. 1.</bibl>) to be ſure the Children of Pride are none of God's Children, nor Chriſt's Subjects or Followers, but averſe to his Ex<g ref="char:EOLhyphen"/>ample of <hi>Humility</hi> and Self-denial.</item>
+               <item>3. <q>The high look of man ſhall be humbled, and the loftineſs of men ſhall be abaſed, for the day of the Lord of Hoſts is upon all the Proud and haughty, and upon all that is exalted, and it ſhall be made low:</q> 
+                  <bibl>Iſa. 2. 11. 12.</bibl>
+               </item>
+               <item>4. <q>For behold the day cometh that ſhall burn as an Oven, and all the Proud, yea all that do wickedly ſhall be as Stubble, and the day that cometh ſhall burn them up ſaith the Lord of Hoſts.</q> 
+                  <bibl>Mal. 4. 1.</bibl>
+               </item>
+               <item>5. When <q>Pride cometh then cometh ſhame, but with the lowly is Wiſ<g ref="char:EOLhyphen"/>dom.</q> 
+                  <bibl>Prov. 11. 2.</bibl>
+                  <q>Pride goeth before deſtruction, and an high mind before the fall.</q> 
+                  <bibl>Pro. 16. 18.</bibl>
+                  <q>The Lord will deſtroy the houſe of the Proud man,</q> 
+                  <bibl>Pro. 15. 25. </bibl>
+                  <q>The Pride of a man ſhall bring him Low, but the humble in Spirit ſhall enjoy Glory,</q> 
+                  <bibl>Pro. 29. 23.</bibl>
+               </item>
+               <item>6. <q>The Lord of Hoſts hath decreed this to ſtain the Pride of all Glory, and to bring to contempt, all them that be Glorious in the Earth.</q> 
+                  <bibl>Iſa. 23. 9.</bibl>
+                  <q>Wo to the Crown of Pride, to the Drunkards of <hi>Ephraim,</hi> for his glorious Beauty ſhall be a fading Flower, which is upon the head of the Valley of them that be fat, and are overcome with Wine.</q> 
+                  <bibl>Iſa. 28. 1.</bibl> 
+                  <q>They ſhall be troden under foot even the Crown of the Pride of the Drunkards of</q> 
+                  <bibl>Ephraim. ver. 3.</bibl>
+               </item>
+            </list>
+            <p>Now pray obſerve what an apparent Embleme and Mark of the Crown of Pride is now your Womens lofty Head-Tire, their ſtrange Tower<g ref="char:EOLhyphen"/>ing and Extravagant Dreſſes upon their Heads, and how Immodeſt vain and Antick, thereby many even overtopping the Men? And what a doting, vain and fooliſh Humour 'tis in any men to delight to ſee their <hi>Wives</hi> or <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> go in ſuch vain, Immodeſt and Indecent Dreſſes, and what ill Exam<g ref="char:EOLhyphen"/>ples are even many of the Prieſts and Miniſters Wives and Children therein? And what a ſad Reproach and Scandal to Religion and the Chriſtian Profeſſion to ſee Aſſemblies for Religious Worſhip, ſo much filled with abominable Pride in Attire, as with thoſe high Towering Dreſſes, Extravagant and Exceſſive Wigs, more for Pride of Orna<g ref="char:EOLhyphen"/>ment than Service or Neceſſity. And what a fooliſh and Effeminate Hu<g ref="char:EOLhyphen"/>mour it is in any to affect ſuch Extravagancy and Exceſs in Apparel and vain Ornaments; and how greatly unbecoming Religious Aſſemblies, pretending Worſhip, Faſting, Prayer, Humiliation, and Repentance.</p>
+            <p>And for any to excuſe their Pride and Immodeſty in Apparel, either by pretending that Pride is not in the Apparel, but in the Heart, or that they may wear their Proud &amp; Vain Garbs (their Immodeſt Lofty and Towering Dreſſes) and yet not be Proud in Heart: Herein they wrong their own Conſciences, Flatter and deceive themſelves in their Pride and Folly; let them but ſeriouſly look into, impartially ſearch and Examine their own Hearts and Conſciences with the Light of <hi>Chriſt</hi> therein, and they'l eaſily ſee how that frequently their Minds, Affections, and Hearts have been buſied and taken up to Imitate and get into the Vain Faſhion, Modes and Habits of Courts and Gentry, Invented in <hi>France</hi> and other Places. And what a ſhame and diſgrace it is for <hi>Engliſh</hi> Proteſtants ſo much to affect the <hi>French</hi> Vain and Immodeſt Faſhions and Habits, or to be ſuch Slaves to the Pride of <hi>France,</hi> when they would be Loath to be Slaves to their Power: Oh! take heed how you provoke the great God by your <hi>Pride</hi> and <hi>Exceſs,</hi> and do not Flatter your ſelves. The root of all your Pride in Habit is in your Hearts; and from <hi>Within, Even out of the Heart Proceed evil thoughts Adulteries, Fornications, Murthers, Thefts, Covetouſneſs, Wicked<g ref="char:EOLhyphen"/>neſs, Deceit, <g ref="char:V">Ʋ</g>ncleanneſs, a Wicked Eye, Backbiting, Pride and Fooliſhneſs,</hi> Mark. 7. 20, 21, 22, 23. Therefore 'tis a falſe Excuſe and contrary to Chriſt's Doctrine for any to ſay, that Pride or Fooliſhneſs is not in their Hearts, when 'tis apparent and notorious in their Habits and fooliſh Attire.</p>
+            <p n="2">II. <hi>PRide</hi> in Root and Branch, in Heart and Habit with its Immo<g ref="char:EOLhyphen"/>deſty, Vanity and Fooliſhneſs in Apparel, and the evil Ex<g ref="char:EOLhyphen"/>ample thereof, is altogether and expreſly forbidden of God and his Chriſt, and directly contrary to the Holy Scriptures.</p>
+            <p>
+               <hi>1st.</hi> How can it conſiſt either with our Chriſtian Profeſſion or Modeſty, for any profeſſed Chriſtians to imitate <hi>Jezebel who Painted her Face, and Ti<g ref="char:EOLhyphen"/>red her Head?</hi> 2 Kings 9. 30. or to Reſemble the <hi>ſtrange Woman in Harlots Attire?</hi> Prov. 7. 10. a remarkable Character, and diſtinct from that of Modeſt Women fearing God.</p>
+            <p>
+               <hi>2d.</hi> That of <hi>Iſaiah</hi> 3. Chap. Is very remarkable how highly God was diſpleaſed with the Haughtineſs and <hi>Pride</hi> of <hi>the Daughter of Zion,</hi> among his People <hi>Iſrael</hi> of old, with their Vanity and Pride in Apparel <hi>&amp;c.</hi> that he both Threatned, and brought ſevere Judgements upon them, to their great debaſement, contempt and diſtreſs; in ſo much that the Lord ſaid unto <hi>Jeruſalem, Thy men ſhall fall by the Sword, and thy ſtrength in the Battle.</hi> Ver. 8. 25.</p>
+            <p>
+               <hi>Then ſhall her Gates mourn and Lament; and ſhe being deſolate ſhall ſit upon the ground.</hi> ver. 26. Their Pride and Rebellion was the cauſe of ſuch their Calamity and Debaſement: Becauſe <hi>the Daughters of</hi> Zion <hi>are Haughty,</hi> &amp;c. ver. 16. And when the Prophet foretold God's Judgement upon Jeruſa<g ref="char:EOLhyphen"/>lem, and how he would <hi>diſtreſs Ariel,</hi> and what <hi>heavineſs and ſorrow</hi> ſhould be: He alſo ſaid, <hi>Thou ſhalt be brought down,</hi> &amp;c. <hi>Thou ſhalt be viſited of the Lord of Hoſts with Thunder and with Earth-Quakes,</hi> &amp;c. Iſa. 29. Oh why are ſuch Ominous Signes, and ſuch eminent Threatning Viſits from the Lord of Hoſts, (even in our days) no more taken notice of, conſidered or laid to Heart by many?</p>
+            <p>
+               <hi>3d.</hi> Tremble, O Earth (Oh Inhabitants of the Earth) at the pre<g ref="char:EOLhyphen"/>ſence of the Lord God: Fear and tremble Oh! all <hi>Proud fleſh</hi> at the preſence of the God of <hi>Jacob;</hi> Oh be abaſed and humbled before the Great and Terrible God, caſt off thy coſtly Ornaments, and Proud At<g ref="char:EOLhyphen"/>tire, and ſit down in the Duſt; Mourn and Lament, and Bewail thy ſelf, and Repent as in Duſt and Aſhes, becauſe of thy abominable <hi>Pride;</hi> many and great Provocations againſt the Lord of Hoſts, whoſe terrible day ap<g ref="char:EOLhyphen"/>proacheth. When the Lord threatned to Cut off <hi>Idolaters and backſliders that turned back from the Lord, and thoſe that have not ſought the Lord nor in<g ref="char:EOLhyphen"/>quired after him.</hi> Zeph. 1. 4, 5, 6. He alſo Threatned, ſaying, <hi>And it ſhall be in the day of the Lord's Sacrifice, that I will viſit the Princes and the Kings Children, and all ſuch as are Cloathed with ſtrange Apparel,</hi> Zeph. 1. 8. And was there ever any Age or Nation that exceeded this of Our's in <hi>Strangeneſs</hi> and folly in Apparel?</p>
+            <p>
+               <hi>4th.</hi> And when <hi>Jeruſalem</hi> and the Daughter of <hi>Zion</hi> were Warned of their Calamities, Miſery and Deſtruction, becauſe of their Pride, Wick<g ref="char:EOLhyphen"/>edneſs and Abominations, it was declared unto them. <hi>And when thou ſhalt be deſtroyed what wilt thou do? Though thou Cloatheſt thy ſelf with Scarlet, tho' thou deckeſt thee with Ornaments of Gold, tho' thou Painteſt thy Face with Co<g ref="char:EOLhyphen"/>lours, yet ſhalt thou Trim thy ſelf in vain,</hi> &amp;c. Jer. 4. 30.</p>
+            <p>
+               <hi>5th.</hi> And now ſeriouſly conſider the Holy Apoſtles Exhortation and Counſel in this Caſe. 1 Tim. 2. 9, 10. <hi>In like manner alſo, that women adorn themſelves in modeſt Apparel, with ſhame-facedneſs and Sobriety, not with broi<g ref="char:EOLhyphen"/>dered Hair, or Gold or Pearls, or coſtly Array,</hi> But which <hi>Becometh Women Profeſſing Godlineſs with good Works.</hi> The like alſo, in 1 Pet<g ref="char:punc">▪</g> 3 3, 4, 5. <hi>Whoſe Adorning let it not be that outward adorning of Plaiting the Hair, wearing of Gold, or putting on of Apparel, But let it be the hidden man of the Heart, in that which is not corruptible, even the Ornament of a meek and quiet Spirit, which is in the ſight of God of great Price. For after this manner in the old Time, the holy Women alſo who truſted in God, adorned themſelves, being in ſubjection unto their own Husbands.</hi> They did not Adorne themſelves with high Heads and Towering Dreſſes, nor with Spotted or Painted Faces, nor with Foo<g ref="char:EOLhyphen"/>liſh or Immodeſt Attire; which things among profeſt Chriſtians are no ſmall Scandal and Reproach to Religion and Chriſtianity, but againſt the Honour and Intereſt thereof, and to the great diſhonour of God, and his dear Son Jeſus Chriſt: for which all ſuch kind of Chriſtians (as are thus guilty of this Horrible Souls ſinking ſin of <hi>Pride)</hi> are accountable.</p>
+            <p>And you that are Parents be Examples of Humility and Chriſtianity, and <hi>bring up your Children in the Nurture, Inſtruction and Admonition of the Lord,</hi> Epheſ. 6. 4. and not in Pride and Vanity<g ref="char:punc">▪</g> in Apparel, nor in Muſick and Dancing to expoſe them to Lightneſs, Wantonneſs, Temptation and Ruine, as too too many do; for which they are greatly chargeable with the ſins of their Children, and have a heavy Account to give to the Righ<g ref="char:EOLhyphen"/>teous God, for being acceſſary to their Ruine and Deſtruction.</p>
+            <p>Oh Inhabitants of <hi>London</hi> and <hi>England,</hi> who are concerned in this pro<g ref="char:EOLhyphen"/>voking ſin of <hi>Pride,</hi> Exceſs, and Fooliſhneſs, return to the Light of Chriſt, his Grace and Truth in you, and humble your ſelves under the mighty hand of God, and break off your Sins by true and unfeigned Repentance, that you may find mercy in Chriſt Jeſus, and for his ſake; That God in Compaſſion may turne away his Wrath, and avert his Judgements threatned and impending over theſe Nations.</p>
+            <closer>
+               <signed>From a real Friend to our Nation, and the Souls of all People. G. W.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>LICENSED <date>
+                  <hi>July</hi> the 18. 1693.</date>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Sold by <hi>Randal Tayler</hi> near <hi>Stationers-Hall,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
